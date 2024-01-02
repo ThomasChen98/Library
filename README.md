@@ -27,3 +27,5 @@
   - [CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all) / [award](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
   - [CoRL 2022](https://corl2022.org/poster-sessions/) / [oral](https://corl2022.org/oral-sessions/)
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
+
+This repo is inspired by [A Paper List of Yanjie Ze](https://github.com/YanjieZe/Paper-List/tree/main)
