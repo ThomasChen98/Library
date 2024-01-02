@@ -1,2 +1,29 @@
-# Library
-A paper list of my research. Robotics, Learning, Vision
+# Yuxin's Library
+
+### Topics
+- Learning
+  - [Diffusion Model]
+  - [Generative Model]
+  - [Large Language Model]
+- Robotics
+- Graphics
+
+### Awards
+- [Computer Vision Awards](https://www.thecvf.com/?page_id=413)
+
+### Conference
+- 2023
+  - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html) / [oral](https://nips.cc/virtual/2023/events/oral) / [spotlight](https://nips.cc/virtual/2023/events/spotlight-posters-2023) / [award](https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/)
+  - [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles) / [oral](https://icml.cc/virtual/2023/events/oral) / [award](https://icml.cc/virtual/2023/awards_detail)
+  - [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles) / [oral](https://iclr.cc/virtual/2023/events/oral) / [award](https://iclr.cc/virtual/2023/awards_detail)
+  - [ICCV 2023](https://openaccess.thecvf.com/ICCV2023?day=all)
+  - [CVPR 2023](https://openaccess.thecvf.com/CVPR2023?day=all) / [award](https://docs.google.com/spreadsheets/d/1OAUf7sQfJ6cSU4BiOtyl-t4dMm4iFqdEDHCSs7R2jZo/edit#gid=790796183)
+  - [CoRL 2023](https://www.corl2023.org/papers)
+- 2022
+  - [NeurIPS 2022](https://neurips.cc/virtual/2022/papers.html) / [oral](https://nips.cc/virtual/2022/events/highlighted) / [spotlight](https://nips.cc/virtual/2022/events/Spotlight) / [award](https://neurips.cc/virtual/2022/awards_detail)
+  - [ICML 2022](https://icml.cc/virtual/2022/papers.html?filter=titles) / [oral](https://icml.cc/virtual/2022/events/oral) / [award](https://icml.cc/virtual/2022/awards_detail)
+  - [ICLR 2022](https://iclr.cc/virtual/2022/papers.html?filter=titles) / [oral](https://iclr.cc/virtual/2022/events/oral) / [spotlight](https://iclr.cc/virtual/2022/events/Spotlight) / [award](https://iclr.cc/virtual/2022/awards_detail)
+  - [ECCV 2022](https://eccv2022.ecva.net/program/accepted-papers/)
+  - [CVPR 2022](https://openaccess.thecvf.com/CVPR2022?day=all) / [award](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
+  - [CoRL 2022](https://corl2022.org/poster-sessions/) / [oral](https://corl2022.org/oral-sessions/)
+  - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
