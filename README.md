@@ -29,4 +29,7 @@
   - [CoRL 2022](https://corl2022.org/poster-sessions/) / [oral](https://corl2022.org/oral-sessions/)
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
+### Recent Papers
+- CVPR 2023, Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation, [Website](https://pnp-diffusion.github.io) / [Github](https://github.com/MichalGeyer/plug-and-play) / [arXiv](https://arxiv.org/abs/2211.12572)
+
 This repo is inspired by [A Paper List of Yanjie Ze](https://github.com/YanjieZe/Paper-List/tree/main)
