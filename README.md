@@ -5,6 +5,7 @@
   - [Diffusion Model]
   - [Generative Model]
   - [Large Language Model]
+  - [Gaussian Splatting](topics/gaussian_splatting.md)
 - Robotics
 - Graphics
 
