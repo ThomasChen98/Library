@@ -30,6 +30,7 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- CVPR 2024 submission, **3DiffTection**: 3D Object Detection with Geometry-Aware Diffusion Features, [Website](https://research.nvidia.com/labs/toronto-ai/3difftection/) / [arXiv](https://arxiv.org/abs/2311.04391)
 - CVPR 2023, Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation, [Website](https://pnp-diffusion.github.io) / [Github](https://github.com/MichalGeyer/plug-and-play) / [arXiv](https://arxiv.org/abs/2211.12572)
 
 This repo is inspired by [A Paper List of Yanjie Ze](https://github.com/YanjieZe/Paper-List/tree/main)
