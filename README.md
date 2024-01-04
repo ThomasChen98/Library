@@ -7,6 +7,7 @@
   - [Large Language Model]
   - [Gaussian Splatting](topics/gaussian_splatting.md)
 - Robotics
+  - [Mobile Manipulation](topics/mobile_manipulation.md)
 - Graphics
 
 ### Awards
