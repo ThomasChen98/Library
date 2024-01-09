@@ -4,7 +4,7 @@
 - Learning
   - [Diffusion Model]
   - [Generative Model]
-  - [Large Language Model]
+  - [Large Language Model](topics/llm.md)
   - [Gaussian Splatting](topics/gaussian_splatting.md)
 - Robotics
   - [Mobile Manipulation](topics/mobile_manipulation.md)
