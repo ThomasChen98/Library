@@ -43,6 +43,7 @@
 - ICCV 2023, Can Language Models Learn to Listen? [Website](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)
 
 ## LLM
+- NIPS 2023 best paper, Are Emergent Abilities of Large Language Models a Mirage?, [arXiv](https://arxiv.org/abs/2304.15004)
 - arXiv 2023.08, **Cumulative Reasoning** with Large Language Models, [arXiv](https://arxiv.org/abs/2308.04371) / [Github](https://github.com/iiis-ai/cumulative-reasoning)
 - arXiv 2023.07, **Retentive Network**: A Successor to Transformer for Large Language Models, [arXiv](https://arxiv.org/abs/2307.08621) / [Github](https://github.com/microsoft/unilm)
 - arXiv 2022.03, Training Compute-Optimal Large Language Models, [arXiv](https://arxiv.org/abs/2203.15556)
