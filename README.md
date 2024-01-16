@@ -31,6 +31,8 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- CoRL 2023, Graph Inverse Reinforcement Learning from Diverse Videos, [arXiv](https://proceedings.mlr.press/v205/kumar23a.html)
+- arXiv 2023.12, Readout Guidance: Learning Control from Diffusion Features, [Website](https://readout-guidance.github.io) / [arXiv](https://arxiv.org/abs/2312.02150)
 - ICLR 2023, Optimal Transport for Offline Imitatino Learning, [arXiv](https://arxiv.org/abs/2303.13971)
 - ICLR 2022, Maximum Entropy RL (Provably) Solves Some Robust RL Problems, [arXiv](https://arxiv.org/abs/2103.06257)
 - CVPR 2024 submission, **3DiffTection**: 3D Object Detection with Geometry-Aware Diffusion Features, [Website](https://research.nvidia.com/labs/toronto-ai/3difftection/) / [arXiv](https://arxiv.org/abs/2311.04391)
