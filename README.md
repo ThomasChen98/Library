@@ -31,6 +31,7 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- arXiv 2023.12, FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition, [Slide](https://genforce.github.io/freecontrol/) / [arXiv](https://arxiv.org/abs/2312.07536)
 - arXiv 2023.10, ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling, [Website](https://metadriverse.github.io/scenarionet/) / [arXiv](https://arxiv.org/abs/2306.12241)
 - NeurIPS 2022, Human-AI Shared Control via Policy Dissection, [arXiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/3a02da3fdfd592d9a5273101c3546611-Paper-Conference.pdf)
 - NeurIPS 2023 Spotlight, Learning from Active Human Involvement through Proxy Value Propagation, [arXiv](https://ml4ad.github.io/files/papers2023/Learning%20from%20Active%20Human%20Involvement%20through%20Proxy%20Value%20Propagation.pdf)
