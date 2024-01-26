@@ -31,6 +31,7 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- NeurIPS 2022, Human-AI Shared Control via Policy Dissection, [arXiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/3a02da3fdfd592d9a5273101c3546611-Paper-Conference.pdf)
 - NeurIPS 2023 Spotlight, Learning from Active Human Involvement through Proxy Value Propagation, [arXiv](https://ml4ad.github.io/files/papers2023/Learning%20from%20Active%20Human%20Involvement%20through%20Proxy%20Value%20Propagation.pdf)
 - CoRL 2023, Graph Inverse Reinforcement Learning from Diverse Videos, [arXiv](https://proceedings.mlr.press/v205/kumar23a.html)
 - arXiv 2023.12, Readout Guidance: Learning Control from Diffusion Features, [Website](https://readout-guidance.github.io) / [arXiv](https://arxiv.org/abs/2312.02150)
