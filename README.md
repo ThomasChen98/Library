@@ -31,6 +31,7 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- CoRL 2022, Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website](https://gmargo11.github.io/walk-these-ways/) / [arXiv](https://openreview.net/pdf?id=52c5e73SlS2)
 - arXiv 2023.12, FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition, [Slide](https://genforce.github.io/freecontrol/) / [arXiv](https://arxiv.org/abs/2312.07536)
 - arXiv 2023.10, ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling, [Website](https://metadriverse.github.io/scenarionet/) / [arXiv](https://arxiv.org/abs/2306.12241)
 - NeurIPS 2022, Human-AI Shared Control via Policy Dissection, [arXiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/3a02da3fdfd592d9a5273101c3546611-Paper-Conference.pdf)
