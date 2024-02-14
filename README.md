@@ -31,6 +31,7 @@
   - [RSS 2022](https://roboticsconference.org/2022/program/papers/) / [award](https://roboticsconference.org/2022/program/awards/)
 
 ### Recent Papers
+- ICRA 2023, **Code as Policies**: Language Model Programs for Embodied Control, [Website](https://code-as-policies.github.io) / [arXiv](https://arxiv.org/abs/2209.07753)
 - ICRA 2023, **ProgPrompt**: Generating Situated Robot Task Plans using Large Language Models, [Website](https://progprompt.github.io) / [arXiv](https://arxiv.org/abs/2209.11302)
 - CoRL 2022, Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior, [Website](https://gmargo11.github.io/walk-these-ways/) / [arXiv](https://openreview.net/pdf?id=52c5e73SlS2)
 - arXiv 2023.12, FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition, [Slide](https://genforce.github.io/freecontrol/) / [arXiv](https://arxiv.org/abs/2312.07536)
